@@ -1,0 +1,337 @@
+area label,area,Cumulative COVID-19 associated deaths within 28 days by date reported
+area label,area,13369
+area label,area,Count
+area label,area,raw
+area label,area,44388
+area label,area,daily_2021_07_11
+Adur,E07000223,67
+Allerdale,E07000026,262
+Amber Valley,E07000032,315
+Arun,E07000224,310
+Ashfield,E07000170,315
+Ashford,E07000105,345
+Babergh,E07000200,213
+Barking and Dagenham,E09000002,465
+Barnet,E09000003,751
+Barnsley,E08000016,808
+Barrow-in-Furness,E07000027,158
+Basildon,E07000066,525
+Basingstoke and Deane,E07000084,287
+Bassetlaw,E07000171,229
+Bath and North East Somerset,E06000022,217
+Bedford Borough,E06000055,484
+Bexley,E09000004,560
+Birmingham,E08000025,2706
+Blaby,E07000129,222
+Blackburn with Darwen,E06000008,429
+Blackpool,E06000009,442
+Bolsover,E07000033,206
+Bolton,E08000001,755
+Boston,E07000136,176
+"Bournemouth, Christchurch and Poole",E06000058,861
+Bracknell Forest,E06000036,166
+Bradford,E08000032,1097
+Braintree,E07000067,395
+Breckland,E07000143,297
+Brent,E09000005,698
+Brentwood,E07000068,217
+Brighton and Hove,E06000043,375
+Bristol,E06000023,484
+Broadland,E07000144,306
+Bromley,E09000006,620
+Bromsgrove,E07000234,241
+Broxbourne,E07000095,207
+Broxtowe,E07000172,265
+Buckinghamshire,E06000060,982
+Burnley,E07000117,283
+Bury,E08000002,548
+Calderdale,E08000033,312
+Cambridge,E07000008,88
+Cambridgeshire,E10000003,804
+Camden,E09000007,273
+Cannock Chase,E07000192,261
+Canterbury,E07000106,435
+Carlisle,E07000028,313
+Castle Point,E07000069,372
+Central Bedfordshire,E06000056,574
+Charnwood,E07000130,324
+Chelmsford,E07000070,411
+Cheltenham,E07000078,182
+Cherwell,E07000177,188
+Cheshire East,E06000049,809
+Cheshire West and Chester,E06000050,873
+Chesterfield,E07000034,208
+Chichester,E07000225,246
+Chorley,E07000118,234
+Colchester,E07000071,376
+Copeland,E07000029,174
+Cornwall,E06000052,471
+Cotswold,E07000079,127
+Coventry,E08000026,551
+Craven,E07000163,88
+Crawley,E07000226,201
+Croydon,E09000008,803
+Cumbria,E10000006,1270
+Dacorum,E07000096,332
+Darlington,E06000005,245
+Dartford,E07000107,268
+Derby,E06000015,662
+Derbyshire,E10000007,1887
+Derbyshire Dales,E07000035,159
+Devon,E10000008,681
+Doncaster,E08000017,844
+Dorset,E06000059,541
+Dover,E07000108,339
+Dudley,E08000027,783
+Durham,E06000047,1263
+Ealing,E09000009,623
+East Cambridgeshire,E07000009,87
+East Devon,E07000040,182
+East Hampshire,E07000085,174
+East Hertfordshire,E07000242,216
+East Lindsey,E07000137,381
+East Riding of Yorkshire,E06000011,761
+East Staffordshire,E07000193,414
+East Suffolk,E07000244,511
+East Sussex,E10000011,1433
+Eastbourne,E07000061,287
+Eastleigh,E07000086,174
+Eden,E07000030,142
+Elmbridge,E07000207,245
+Enfield,E09000010,583
+Epping Forest,E07000072,370
+Epsom and Ewell,E07000208,188
+Erewash,E07000036,283
+Essex,E10000012,3962
+Exeter,E07000041,110
+Fareham,E07000087,269
+Fenland,E07000010,213
+Folkestone and Hythe,E07000112,410
+Forest of Dean,E07000080,111
+Fylde,E07000119,259
+Gateshead,E08000037,430
+Gedling,E07000173,272
+Gloucester,E07000081,193
+Gloucestershire,E10000013,922
+Gosport,E07000088,155
+Gravesham,E07000109,286
+Great Yarmouth,E07000145,240
+Greenwich,E09000011,435
+Guildford,E07000209,195
+Hackney,E09000012,435
+Halton,E06000006,267
+Hambleton,E07000164,137
+Hammersmith and Fulham,E09000013,233
+Hampshire,E10000014,2383
+Harborough,E07000131,146
+Haringey,E09000014,391
+Harlow,E07000073,180
+Harrogate,E07000165,211
+Harrow,E09000015,508
+Hart,E07000089,159
+Hartlepool,E06000001,251
+Hastings,E07000062,241
+Havant,E07000090,300
+Havering,E09000016,836
+Herefordshire,E06000019,279
+Hertfordshire,E10000015,2450
+Hertsmere,E07000098,289
+High Peak,E07000037,230
+Hillingdon,E09000017,631
+Hinckley and Bosworth,E07000132,203
+Horsham,E07000227,198
+Hounslow,E09000018,557
+Huntingdonshire,E07000011,255
+Hyndburn,E07000120,213
+Ipswich,E07000202,309
+Isle of Wight,E06000046,256
+Islington,E09000019,291
+Kensington and Chelsea,E09000020,211
+Kent,E10000016,3994
+King's Lynn and West Norfolk,E07000146,417
+Kingston upon Hull,E06000010,639
+Kingston upon Thames,E09000021,304
+Kirklees,E08000034,811
+Knowsley,E08000011,416
+Lambeth,E09000022,509
+Lancashire,E10000017,2982
+Lancaster,E07000121,285
+Leeds,E08000035,1335
+Leicester,E06000016,788
+Leicestershire,E10000018,1373
+Lewes,E07000063,231
+Lewisham,E09000023,519
+Lichfield,E07000194,287
+Lincoln,E07000138,188
+Lincolnshire,E10000019,1622
+Liverpool,E08000012,1191
+Luton,E06000032,507
+Maidstone,E07000110,372
+Maldon,E07000074,142
+Malvern Hills,E07000235,126
+Manchester,E08000003,990
+Mansfield,E07000174,279
+Medway,E06000035,752
+Melton,E07000133,99
+Mendip,E07000187,160
+Merton,E09000024,404
+Mid Devon,E07000042,77
+Mid Suffolk,E07000203,187
+Mid Sussex,E07000228,264
+Middlesbrough,E06000002,334
+Milton Keynes,E06000042,463
+Mole Valley,E07000210,221
+New Forest,E07000091,290
+Newark and Sherwood,E07000175,201
+Newcastle upon Tyne,E08000021,441
+Newcastle-under-Lyme,E07000195,339
+Newham,E09000025,618
+Norfolk,E10000020,1881
+North Devon,E07000043,62
+North East Derbyshire,E07000038,259
+North East Lincolnshire,E06000012,272
+North Hertfordshire,E07000099,276
+North Kesteven,E07000139,225
+North Lincolnshire,E06000013,302
+North Norfolk,E07000147,199
+North Northamptonshire,E06000061,662
+North Somerset,E06000024,318
+North Tyneside,E08000022,416
+North Warwickshire,E07000218,152
+North West Leicestershire,E07000134,222
+North Yorkshire,E10000023,888
+Northumberland,E06000057,696
+Norwich,E07000148,211
+Nottingham,E06000018,628
+Nottinghamshire,E10000024,1768
+Nuneaton and Bedworth,E07000219,284
+Oadby and Wigston,E07000135,157
+Oldham,E08000004,622
+Oxford,E07000178,137
+Oxfordshire,E10000025,732
+Pendle,E07000122,240
+Peterborough,E06000031,329
+Plymouth,E06000026,208
+Portsmouth,E06000044,365
+Preston,E07000123,322
+Reading,E06000038,264
+Redbridge,E09000026,745
+Redcar and Cleveland,E06000003,300
+Redditch,E07000236,189
+Reigate and Banstead,E07000211,388
+Ribble Valley,E07000124,151
+Richmond upon Thames,E09000027,287
+Richmondshire,E07000166,77
+Rochdale,E08000005,644
+Rochford,E07000075,275
+Rossendale,E07000125,151
+Rother,E07000064,324
+Rotherham,E08000018,755
+Rugby,E07000220,150
+Runnymede,E07000212,141
+Rushcliffe,E07000176,207
+Rushmoor,E07000092,201
+Rutland,E06000017,65
+Ryedale,E07000167,69
+Salford,E08000006,564
+Sandwell,E08000028,1007
+Scarborough,E07000168,199
+Sedgemoor,E07000188,167
+Sefton,E08000014,803
+Selby,E07000169,107
+Sevenoaks,E07000111,254
+Sheffield,E08000019,1144
+Shropshire,E06000051,562
+Slough,E06000039,292
+Solihull,E08000029,551
+Somerset,E10000027,682
+Somerset West and Taunton,E07000246,195
+South Cambridgeshire,E07000012,161
+South Derbyshire,E07000039,227
+South Gloucestershire,E06000025,347
+South Hams,E07000044,43
+South Holland,E07000140,192
+South Kesteven,E07000141,270
+South Lakeland,E07000031,221
+South Norfolk,E07000149,211
+South Oxfordshire,E07000179,164
+South Ribble,E07000126,222
+South Somerset,E07000189,160
+South Staffordshire,E07000196,252
+South Tyneside,E08000023,429
+Southampton,E06000045,326
+Southend-on-Sea,E06000033,599
+Southwark,E09000028,336
+Spelthorne,E07000213,192
+St Albans,E07000240,306
+St. Helens,E08000013,466
+Stafford,E07000197,322
+Staffordshire,E10000028,2341
+Staffordshire Moorlands,E07000198,266
+Stevenage,E07000243,140
+Stockport,E08000007,664
+Stockton-on-Tees,E06000004,440
+Stoke-on-Trent,E06000021,717
+Stratford-on-Avon,E07000221,242
+Stroud,E07000082,169
+Suffolk,E10000029,1420
+Sunderland,E08000024,761
+Surrey,E10000030,2402
+Surrey Heath,E07000214,207
+Sutton,E09000029,434
+Swale,E07000113,436
+Swindon,E06000030,270
+Tameside,E08000008,668
+Tamworth,E07000199,200
+Tandridge,E07000215,211
+Teignbridge,E07000045,122
+Telford and Wrekin,E06000020,262
+Tendring,E07000076,580
+Test Valley,E07000093,196
+Tewkesbury,E07000083,140
+Thanet,E07000114,452
+Three Rivers,E07000102,223
+Thurrock,E06000034,436
+Tonbridge and Malling,E07000115,208
+Torbay,E06000027,154
+Torridge,E07000046,49
+Tower Hamlets,E09000030,393
+Trafford,E08000009,509
+Tunbridge Wells,E07000116,189
+Uttlesford,E07000077,119
+Vale of White Horse,E07000180,123
+Wakefield,E08000036,770
+Walsall,E08000030,853
+Waltham Forest,E09000031,473
+Wandsworth,E09000032,435
+Warrington,E06000007,482
+Warwick,E07000222,226
+Warwickshire,E10000031,1054
+Watford,E07000103,222
+Waverley,E07000216,239
+Wealden,E07000065,350
+Welwyn Hatfield,E07000241,239
+West Berkshire,E06000037,174
+West Devon,E07000047,36
+West Lancashire,E07000127,263
+West Lindsey,E07000142,190
+West Northamptonshire,E06000062,745
+West Oxfordshire,E07000181,120
+West Suffolk,E07000245,200
+West Sussex,E10000032,1470
+Westminster,E09000033,303
+Wigan,E08000010,944
+Wiltshire,E06000054,651
+Winchester,E07000094,178
+Windsor and Maidenhead,E06000040,292
+Wirral,E08000015,810
+Woking,E07000217,175
+Wokingham,E06000041,232
+Wolverhampton,E08000031,713
+Worcester,E07000237,167
+Worcestershire,E10000034,1196
+Worthing,E07000229,184
+Wychavon,E07000238,233
+Wyre,E07000128,359
+Wyre Forest,E07000239,240
+York,E06000014,316

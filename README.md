@@ -7,4 +7,4 @@ Outputs are contained within the MSc Project/Outputs/ folder.
 
 Jupyter Notebook files are intended to be run in the order they are numbered.
 
-Video presentation YouTube link: .
+Video presentation YouTube link: https://www.youtube.com/watch?v=FhTe65tY0tc.
